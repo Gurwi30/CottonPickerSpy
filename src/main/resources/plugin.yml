@@ -1,0 +1,4 @@
+name: CottonPickerSpy
+version: '${project.version}'
+main: me.gurwi.cottonpickerspy.CottonPickerSpy
+api-version: '1.20'
