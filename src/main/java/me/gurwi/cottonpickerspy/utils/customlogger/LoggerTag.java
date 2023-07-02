@@ -1,7 +1,6 @@
-package me.gurwi.vanillateams.utils.customlogger;
+package me.gurwi.cottonpickerspy.utils.customlogger;
 
 import lombok.Getter;
-import net.md_5.bungee.api.ChatColor;
 
 @SuppressWarnings("unused")
 public enum LoggerTag {
